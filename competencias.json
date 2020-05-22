@@ -1,0 +1,28 @@
+{
+        {
+            "competencia": "Cuál pelicula te gusta mas?"
+        },
+        {
+            "competencia": "Qué pelicula de acción es mejor?"
+        },
+        {
+            "competencia": "Cuál pelicula romantica te cautivó mas?"
+        },
+        {
+            "competencia": "Qué pelicula es mejor drama?"
+        },
+        {
+            "competencia": "Qué pelicula es mejor suspenso?"
+        },
+        {
+            "competencia": "Cuál pelicula es mejor de sci-fi"
+        }
+}
+
+insert into 'competencias.competencia' values 
+(1,'Cuál pelicula te gusta más?'),
+(2,'Qué pelicula de acción es mejor?'),
+(3,'Cuál pelicula romantica te cautivó más?'),
+(4,'Qué pelicula es mejor drama?'),
+(5,'Qué pelicula es mejor suspenso?'),
+(6,'Cuál pelicula es mejor de sci-fi?');
